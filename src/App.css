@@ -1,0 +1,9 @@
+#ip{
+  margin:50px 10px
+}
+.main{
+  background-image: url(../public/th.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height:1200px;
+}
